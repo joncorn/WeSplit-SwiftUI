@@ -1,2 +1,2 @@
 # WeSplit-SwiftUI
-SwiftUI Tip Calculator - Commented by myself - Guide by Paul Hudson
+SwiftUI Tip Calculator - commented by myself - guide by Paul Hudson
